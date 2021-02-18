@@ -51,8 +51,8 @@ class DataHandler:
 		elif args.data == 'beibei':
 			predir = './Datasets/beibei/'
 			behs = ['pv', 'cart', 'buy']
-		elif args.data == 'tianchi':
-			predir = './Datasets/tianchi/'
+		elif args.data == 'ijcai':
+			predir = './Datasets/ijcai/'
 			behs = ['click', 'fav', 'cart', 'buy']
 		self.predir = predir
 		self.behs = behs
