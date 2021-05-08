@@ -1,5 +1,5 @@
 # MB-GMN
-Anonymous code for MB-GMN
+Code for MB-GMN, SIGIR 2021
 
 For Beibei data, run
 ```
